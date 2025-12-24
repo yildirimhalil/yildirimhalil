@@ -1,6 +1,6 @@
 ## Hello, I'm Halil 👋 
 
-I'm a computer engineering student and a full-stack developer with a passion for learning and building software solutions. I love exploring new technologies and staying up-to-date with industry trends.
+I'm a computer engineer and a full-stack developer with a passion for learning and building software solutions. I love exploring new technologies and staying up-to-date with industry trends.
 
 ### Technologies
 
