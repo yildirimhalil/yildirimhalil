@@ -18,14 +18,6 @@ I'm a computer engineer and a full-stack developer with a passion for learning a
 - [LinkedIn](https://www.linkedin.com/)
 - Email: halilyildirim3443@gmail.com 
 
-### GitHub Statistics
-
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=yildirimhalil&show_icons=true&theme=dark) 
-
-### Most Used Languages
-
-![Dil İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimhalil&layout=compact&theme=dark) 
-
 ### Quick Contact
 
 - [LinkedIn](https://www.linkedin.com/yildirimhalil) 
