@@ -77,9 +77,6 @@ I specialize in designing **event-driven architectures** and **microservices** u
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=yildirimhalil&show_icons=true&theme=tokyonight&hide_border=true" />
-      </td>
-      <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimhalil&layout=compact&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
@@ -87,11 +84,3 @@ I specialize in designing **event-driven architectures** and **microservices** u
 </div>
 
 ---
-
-# ⚡ Runtime Log
-```bash
-$ tail -f activity.log
-[INFO] - Successfully migrated 800+ DTOs to shared library.
-[INFO] - Optimized PDF rendering engine using Puppeteer clusters.
-[DEBUG] - Implementing Saga orchestration for cross-service consistency.
-[STATUS] - Exploring Distributed Systems at 100% CPU.
